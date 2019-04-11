@@ -50,5 +50,3 @@ end
 
 
 puts industrialize("https://www.annuaire-des-mairies.com/val-d-oise.html")
-
-/html/body/div[3]/div/div/section/div/article/div[3]/div/div[3]/div[1]/ul[1]/li[1]/a
